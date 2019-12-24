@@ -6,4 +6,4 @@ draft: false
 
 L’[Union Communiste Libertaire](https://www.unioncommunistelibertaire.org/) (UCL) milite pour une rupture avec le capitalisme, la socialisation des moyens de production et une société sans classes et sans État fondée sur l’autogestion socialiste, l’égalité réelle des hommes et des femmes, la liberté et la démocratie directe.
 
-![Logo horizontal de l’UCL](images/ucl-logo-horizontal.png)
+[![Logo horizontal de l’UCL](images/ucl-logo-horizontal.png)](https://www.unioncommunistelibertaire.org/)
