@@ -8,7 +8,7 @@ date: 2019-12-22T11:32:30.000+00:00
 ### S’abonner à Alternative libertaire, c’est :
 
 * 22 euros pour un an (11 numéros)
-* 15 euros pour les chômeuses, chômeurs, étudiants et précaires.
+* 16 euros pour les chômeuses, chômeurs, étudiants et précaires.
 * 30 euros pour les abonnements hors France métropolitaine.
 
 ### Deux solutions pour s’abonner :
