@@ -19,3 +19,7 @@ date: 2019-12-22T11:32:30.000+00:00
 ### En kiosque
 
 Pour trouver où acheter _Alternative libertaire_ près de chez vous, [consultez cette page](http://web2store.mlp.fr/produit.aspx?edi_code=P91M%2fHneSos%3d&tit_code=nlnSGbnNm8k%3d).
+
+### Pour découvrir
+
+[Le numéro d'_Alternative libertaire_ d'avril 2020](https://www.unioncommunistelibertaire.org/?-AL-d-avril-est-gratuit-en-PDF-) gratuit en PDF (confinement oblige)
