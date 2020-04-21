@@ -1,9 +1,9 @@
 ---
 title: Solidarité coronavirus Amiens
-date: 2020-04-21T10:32:39+00:00
+date: 2020-04-21T10:32:39.000+00:00
 
 ---
-Organisons la solidarité populaire
+Organisons la solidarité populaire.
 
 ![](/images/solidaritecoronavirusamiens.jpg)
 
