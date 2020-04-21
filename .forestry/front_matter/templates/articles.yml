@@ -8,3 +8,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- content/Articles/al-d-avril-est-gratuit-en-pdf.md
