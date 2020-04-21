@@ -9,6 +9,8 @@ En raison du coronavirus, notre imprimeur a stoppé ses machines, et nous n’av
 
 Nous avons pourtant bouclé ce numéro et en assurons la distribution la plus large possible au format numérique.
 
+***
+
 **Cliquez pour l’ouvrir !**
 
 [![](/images/couv-304_mensuel-al-vignette.jpg)](https://www.unioncommunistelibertaire.org/IMG/pdf/alternative_libertaire_n304_avril_2020_.pdf "AL avril 20")
