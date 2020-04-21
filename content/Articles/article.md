@@ -1,7 +1,6 @@
 ---
-title: "Premier article"
-date: 2019-12-22T12:32:39+01:00
-draft: true
----
+title: Solidarité coronavirus Amiens
+date: 2020-04-21T10:32:39+00:00
 
-Ceci est un essai
+---
+![](/images/solidarité coronavirus amiens.jpg)
